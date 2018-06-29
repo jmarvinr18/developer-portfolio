@@ -1,0 +1,58 @@
+
+body {
+	background-image: url(../images/bg.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-size:cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	font-family: 'Righteous', cursive;
+	
+}
+h1 {
+
+color: rgb(201, 76, 76);
+font-size: 50px;
+font-weight: normal;
+margin-bottom: 0;
+
+}
+
+h2 {
+
+color: white;
+font-size: 18px;
+font-weight: normal;
+margin-top: 0;
+
+}
+
+.bio {
+	color: white;
+	font-size: 16px;
+	font-family: 'Righteous', cursive;
+	border-top-style: solid;
+	border-top-color: rgb(201, 76, 76);
+	padding: 15px;
+    margin: 15px;
+}
+
+.me {
+	height: 150px;
+	width: 150px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: rgb(201, 76, 76);
+	margin-top: 40px;
+}
+
+.about{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	background-color: rgba(0, 2, 1,.3);
+
+}
